@@ -204,7 +204,7 @@ pip install numpy pandas matplotlib jupyter
 1. Clone the repository.
 
    ```bash
-   git clone https://github.com/YOUR_USERNAME/Dimensionality-Reduction-PCA-LDA.git
+   git clone https://github.com/noorxavier/Dimensionality-Reduction-PCA-LDA.git
    ```
 
 2. Navigate to the project directory.
@@ -262,9 +262,9 @@ The filenames above are suggested. Adjust them to match the actual files in your
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Md Tauhid Noor**
 
-GitHub: [YOUR_GITHUB_USERNAME](https://github.com/YOUR_USERNAME)
+GitHub: [noorxavier](https://github.com/noorxavier)
 
 ---
 
